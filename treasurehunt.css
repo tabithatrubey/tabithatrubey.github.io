@@ -1,0 +1,28 @@
+h1,h3 {
+    font-family:"Merriweather",serif;
+    color: aqua
+    font-size: 50px;
+    font-style: bold
+}
+
+
+button {
+    color: aqua;
+}
+
+body {
+    background-image:url("https://www.957thehog.com/wp-content/uploads/2020/06/shutterstock_1296005494.png");
+background-size: cover;
+text-align: center;
+color: aqua;
+font-size:px:large
+}
+table {
+    border-width: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: xx-large;
+    }
+ul{list-style-type: none;}
+button {color: gold;
+font-size: large;}
